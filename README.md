@@ -6,7 +6,7 @@
 
 ## Package Description
 
-The VIRus Particle SIMulation with collisions (VirPSim) is a tool to simulate particle dynamics with collision. Each particle can have four states: vulnerable, infected, immune and dead. The user selects the initial percentage of particles in each state. Additionally, it is possible to modify the probability of transmission during an interaction, the probability of becoming immune while infected, or the average time it takes for an infected particle to die.
+The VIRus Particle SIMulation with collisions (VirPSim) is a tool to simulate the propagation of a contagious disease on colliding particles. Each particle can have four states: vulnerable, infected, immune and dead. The user selects the initial percentage of particles in each state. Additionally, it is possible to modify the probability of transmission during an interaction, the probability of becoming immune while infected, or the average time it takes for an infected particle to die.
 
 VirPSim is designed to be semi user-friendly and flexible, allowing users to easily customize simulation parameter. 
 
