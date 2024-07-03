@@ -1,8 +1,8 @@
 # VIRus Particle SIMulation with collisions (VirPSim)
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <img src="./im_ex2.gif" alt="2000 particles example" style="width: 45%; margin-right: 5px;">
-    <img src="./im_ex.gif" alt="20 particles example" style="width: 45%; margin-left: 5px;">
+    <img src="./im_ex2.gif" alt="2000 particles example" style="width: 40%; margin-right: 5px;">
+    <img src="./im_ex.gif" alt="20 particles example" style="width: 40%; margin-left: 5px;">
 </div>
 
 ## Package Description
