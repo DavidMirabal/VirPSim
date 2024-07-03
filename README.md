@@ -25,5 +25,5 @@ To run VirPSim, you will need the following external package:
 - `PyTorch`
 - `tqdm`
 
-If you want to make videos of the simulation, you have to install ffmpeg.
+If you want to make videos of the simulation, you have to install `ffmpeg`.
 It is possible to use an NVDIA graphic card to perform the simulation. You have to install CUDA drivers.
